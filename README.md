@@ -10,6 +10,7 @@ The purpose of this repo is to place AI generated captions in one location for e
 Transcripts:
 
 - [episodes](episodes) - Episodes.
+- [guest.speaking](guest.speaking) - from various
 
 Other folders:
 

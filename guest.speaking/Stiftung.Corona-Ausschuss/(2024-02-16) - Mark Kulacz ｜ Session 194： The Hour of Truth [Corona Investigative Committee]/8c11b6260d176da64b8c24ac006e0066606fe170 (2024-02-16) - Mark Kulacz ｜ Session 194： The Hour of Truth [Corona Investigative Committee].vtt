@@ -1,0 +1,1871 @@
+WEBVTT
+
+00:00.000 --> 00:11.360
+I'm excited to see you, Mark Koulash is with us, he is a market intelligence analyst and
+
+00:11.360 --> 00:23.160
+IT specialist, but he has used all these qualities for investigating what's been going on in
+
+00:23.160 --> 00:28.720
+the last three and a half years, almost four years now, and even longer, because you also
+
+00:28.800 --> 00:36.040
+took a look into the past. So maybe could you introduce yourself a bit further so our audience
+
+00:36.080 --> 00:43.880
+knows who you are. And by the way, you work closely with Jonathan Kui, who we had with us
+
+00:43.880 --> 00:47.960
+in another session and who had very interesting things to tell.
+
+00:50.080 --> 00:55.400
+Thank you for very much for having me on, having me on as the audio satisfactory.
+
+00:55.400 --> 01:01.960
+Yes, it's very, it's very good. Very good. Thank you. So an introduction, my name is Mark
+
+01:01.960 --> 01:09.040
+Koolak. It's actually a Polish name. But within the United States, as name is shipped around so
+
+01:09.040 --> 01:17.440
+much, I'm actually more German, not Polish at all. So unfortunately, I wish I could
+
+01:17.440 --> 01:23.880
+converse with the audience here in German. But I've let some of my forefathers down by not
+
+01:23.880 --> 01:31.920
+having German in my back pocket in my suite of languages. But I worked in the how to say the
+
+01:31.920 --> 01:39.360
+computer industry, the big tech industry for about 22 to 23 years. I have a degree in computer
+
+01:39.360 --> 01:47.040
+engineering. And I worked predominantly in digital data storage for very large companies back
+
+01:47.120 --> 01:57.440
+Dell computer systems, EMC, which Dell acquired NetApp. And and several others. And I moved in my
+
+01:57.440 --> 02:05.840
+career as an engineer towards, towards eventually working as a technical trainer. And then as a
+
+02:05.840 --> 02:10.680
+sales engineer, and then eventually in product marketing and something called competitive
+
+02:10.720 --> 02:17.800
+intelligence, which sounds like it's a spy agency. But in reality, it's just understanding what
+
+02:17.800 --> 02:23.200
+a company's competitors are doing, and then helping develop sales literature and maybe make, you
+
+02:23.200 --> 02:30.080
+know, product roadmap decisions upon that. Having been an engineer, I tended to approach things
+
+02:30.080 --> 02:35.760
+in a pretty technical angle. So I live in the United States, so you can tell I'm a lifelong
+
+02:35.760 --> 02:41.760
+American. I live near between New York City and Boston, up in that northeastern part of the
+
+02:41.760 --> 02:49.840
+United States. And I've never really been someone who was very politically active or, you know,
+
+02:49.840 --> 02:56.880
+digging in on the issues of the day, if you will. But over the last 10 years, you know, my family
+
+02:56.920 --> 03:04.080
+as fortune would have it, had an encounter with drug addiction, which is a very big issue in the
+
+03:04.080 --> 03:10.520
+United States, and something I will talk more about throughout our show here, as well as
+
+03:11.520 --> 03:20.760
+something called Lyme disease or tick or arthropod born diseases, which are also very much on the
+
+03:20.760 --> 03:27.680
+rise in the United States. And my wife had some Lyme disease, which was chronic in the doctors. This
+
+03:27.680 --> 03:32.840
+is several years ago right now, eight, 10 years ago, simply did not want to acknowledge that her
+
+03:32.840 --> 03:40.320
+condition was real. So we had to find a doctor that would make, you know, antibiotics and other,
+
+03:41.920 --> 03:46.560
+how would you say, just come up with a strategy to help deal with that. So these things took me
+
+03:46.560 --> 03:50.720
+from someone who was sort of mining in those business, man, you know, doing the family thing
+
+03:50.720 --> 03:58.880
+and the career thing to why are these challenges being unaddressed? Why are they not even spoken
+
+03:58.880 --> 04:05.680
+about? And then I started to do more online research in my spare time. One thing led to the
+
+04:05.680 --> 04:12.160
+next, and it became to the point where I couldn't ethically continue my job anymore, because I was
+
+04:12.160 --> 04:19.400
+just spending so much time doing this online research. And I decided to do it full time in 2019. And
+
+04:19.400 --> 04:26.840
+then the pandemic happens. So I don't come at this. I'm, I'm very comfortable. I just don't think
+
+04:26.840 --> 04:31.480
+there's any value in trying to pretend to be something I'm not I'm not a molecular biologist. I'm
+
+04:31.480 --> 04:39.920
+not an immunologist. I was the lead competitive intelligence analyst for Dell Corporation for
+
+04:39.920 --> 04:45.000
+reverse engineering data storage systems that cost a million dollars or more. So I am from the
+
+04:45.000 --> 04:51.800
+corporate world, and I am very disciplined and regimented in my work. But that's what led me here.
+
+04:52.280 --> 05:00.840
+And yes, Jonathan Cooey who several it's amazing. I've been dealing with this. And you might have
+
+05:00.840 --> 05:10.200
+seen this as well. All of these, this whole area, this, this arena of combat of different influencers
+
+05:10.200 --> 05:18.200
+and ideas, and smaller parts of the story and narrative control. And it's taken me, I will
+
+05:18.760 --> 05:25.880
+years to really understand how all of this works. I was very naive early in the pandemic. I would
+
+05:25.880 --> 05:33.320
+even say that early in the pandemic, I was quite taken and fooled into participating in the wrong
+
+05:33.320 --> 05:43.400
+argument. And that was how to say promoting the idea of, Oh, there must have been a laboratory
+
+05:43.400 --> 05:50.520
+really, there must have been a gain of function element to this. And although there's no reason to
+
+05:50.520 --> 05:56.200
+discount anything, I've come to the realization that that's the wrong argument to have. And I was
+
+05:56.200 --> 06:01.560
+tricked into it. Perhaps I was predisposed because of my own personal experiences. But anyways,
+
+06:01.560 --> 06:06.920
+I have several topics I can address. And I, of course, I can happy to do a Q&A. But that's my
+
+06:06.920 --> 06:13.720
+background. Yeah, so the question is, would you like to give us like an overview of what you
+
+06:13.720 --> 06:21.800
+think that this pandemic has been about? And what's what has led up to it? I don't know if this is
+
+06:21.800 --> 06:27.240
+what you would like to do. I mean, with regards to these, these drug addiction, I don't know,
+
+06:27.240 --> 06:34.440
+maybe you are addressing the dystopian scandals also, because that is that is really quite,
+
+06:34.440 --> 06:41.320
+quite interesting that it was like in hidden in a painkiller, basically. And a lot of people got
+
+06:41.320 --> 06:45.400
+addicted to that. And actually, I, you know, I had a personal experience because a friend of mine,
+
+06:45.960 --> 06:52.280
+they were they had moved to America. And the husband of my friend went to the dentist. And after he
+
+06:52.280 --> 06:58.440
+had, I think they took out a tooth or so. And then he got this painkiller. And then the person said
+
+06:58.440 --> 07:04.280
+to him, the doctor, yeah, if you have pain, if you suffer from pain later on, just take it,
+
+07:04.280 --> 07:09.400
+no problem. It's an, you know, an easy product or something like that. And luckily, he didn't take
+
+07:09.400 --> 07:14.600
+it. Because later on, he looked at it and it turned out to be this like super highly addictive,
+
+07:14.600 --> 07:22.120
+herring kind of style product that maybe would have changed this is all path in life. Yeah,
+
+07:22.120 --> 07:27.560
+it's super dangerous. And it's very strange that this product has been admitted to the market at all.
+
+07:27.560 --> 07:33.800
+And then it was also, I think, even allowed, it got some some, you know, it was I think it's
+
+07:33.800 --> 07:38.120
+also applicable to to children now. Or was that some point?
+
+07:39.400 --> 07:45.640
+Well, thank you for sharing that experience. That is actually a very common route of painkiller
+
+07:45.640 --> 07:52.520
+addiction. First off, let me just clarify. And I think most people know this, but somehow we
+
+07:52.520 --> 07:57.640
+forget about it because of all the pollution from the media. Nobody wants to be a drug addict.
+
+07:58.520 --> 08:05.320
+Nobody, although I know Hollywood sometimes make it looks, you know, kind of rebellious and cool.
+
+08:05.320 --> 08:11.400
+Nobody wants to wind up living on a street, unable to support themselves and doing horrible things
+
+08:11.400 --> 08:19.080
+in order to support their habit. So there is, there's this misunderstanding. It's a result of
+
+08:19.080 --> 08:28.200
+laziness or or hedonism or something. It just isn't. Okay. And although there are an abundance of
+
+08:28.200 --> 08:34.200
+videos available, some cities of the United States of drug of drug addicts, all of those people are
+
+08:34.200 --> 08:42.040
+someone else's children. As as horrifying as their appearance may have become, and even the parents
+
+08:42.040 --> 08:50.760
+would agree, they're all kids from someone else anyways. So this is, it sounds like it's
+
+08:51.560 --> 08:58.840
+like a different topic. Okay. But if I may, I'll talk about the history of this a little bit.
+
+08:58.840 --> 09:08.360
+It's totally relevant, the history of course. But before we get into addressing that, why is it
+
+09:08.360 --> 09:16.360
+so specifically relevant to COVID? Well, every nation has had a different experience in the pandemic.
+
+09:17.320 --> 09:26.120
+In the United States, it has been said oftentimes that we've had approximately one million excess
+
+09:26.120 --> 09:34.360
+deaths. Excess death is a very complicated number. It means more people died than were
+
+09:34.360 --> 09:39.480
+projected to die. It doesn't mean more people died in the previous year. And then of course,
+
+09:39.480 --> 09:44.040
+well, how do you come up with that projection? Because if the projection is accurate enough,
+
+09:44.040 --> 09:48.360
+there will never be excess mortality. So it's a, it's a, it's a difficult measure.
+
+09:48.920 --> 09:55.160
+Nonetheless, more people did die quite a few over the last four or five years, four years at least.
+
+09:56.120 --> 10:04.520
+And in the United States, the total number of deaths from 2019 to 2023 of a drug overdose,
+
+10:04.520 --> 10:11.400
+and most of these were opioids or painkillers, was is over 500,000 right now, it's over half a
+
+10:11.400 --> 10:19.000
+million, which is a very big number for a country of 330 million people. In fact, for the year 2023,
+
+10:19.640 --> 10:26.920
+one out of every 30 people who died, period was a drug overdose, all ages, all reasons,
+
+10:27.560 --> 10:35.080
+yet it will not get the appropriate media attention. Now, there's always going to be reasons
+
+10:35.080 --> 10:41.480
+drug overdoses, accidents, there's so many causes. But to get a historical perspective,
+
+10:42.440 --> 10:46.840
+in the year 2000, the number of people that were dying in the United States per year of a drug
+
+10:46.840 --> 10:54.120
+overdose was about 22,000. Last year, it was 113,000.
+
+10:55.080 --> 11:00.520
+How is that possibly not something taken into account with respect to the excess number of
+
+11:00.520 --> 11:08.520
+people dying? And most of those people are under the age of 45. So it has an enormous impact on
+
+11:08.520 --> 11:14.840
+life expectancy calculations. And in the United States, it has been highlighted that life expectancy
+
+11:14.920 --> 11:23.880
+has been going down dot, dot, dot, because of the pandemic. However, most of the people who promote
+
+11:24.520 --> 11:30.920
+the or highlight how bad the pandemic was, whether it's from a cave or from a laboratory
+
+11:30.920 --> 11:38.520
+refused to mention this. Now, I was already predisposed to thinking about this several years ago, because
+
+11:38.520 --> 11:43.720
+of matter of fact, I myself became addicted at one point after I had a back operation.
+
+11:44.280 --> 11:51.960
+Fortunately, I did not turn into a long term thing. And then in 2022, we lost our son to a drug overdose
+
+11:52.440 --> 11:59.800
+in April. So the two year anniversary is coming up. And right now, my wife and I, we are full-time
+
+11:59.800 --> 12:07.640
+grandparents were raising our granddaughter. That was only five months old at the time that he died.
+
+12:08.840 --> 12:14.920
+So this is happening. This is, this is, I know this word is overused these days, but this is
+
+12:14.920 --> 12:20.200
+truly an epidemic. There are massive Facebook groups of thousands of grandparents right now
+
+12:20.200 --> 12:28.680
+raising multiple kids. And no one talks about this because because it would take, it would change
+
+12:28.680 --> 12:34.600
+how people think of the data of the pandemic. Perhaps many people have heard that in the United
+
+12:34.600 --> 12:44.040
+States, starting in 2020, there were a multitude of deaths which were reclassified as being COVID.
+
+12:44.040 --> 12:50.600
+So if someone, an elderly person dies of the flu, it's unfortunate as it is, we all wind up there.
+
+12:52.040 --> 12:56.840
+Hopefully at a very big number. But those deaths which were
+
+12:57.640 --> 13:03.160
+happen every year, because people reach the end of their life. Some of those were reclassified
+
+13:03.160 --> 13:08.840
+as having been COVID deaths. Now I disagree with that strategy, but that's what was done.
+
+13:10.120 --> 13:19.080
+Calling one type of death, another type of death does not, in and of itself, cause any excess deaths.
+
+13:19.080 --> 13:25.160
+You can call shark attacks, people falling off of ladders and car accidents COVID deaths.
+
+13:25.800 --> 13:33.480
+That doesn't actually itself kill anyone. So in the United States, as all of these other causes of
+
+13:33.480 --> 13:41.240
+death, were called COVID, we had more people dying. And the very, very simple analysis,
+
+13:41.800 --> 13:48.440
+which we are told to accept is that because more people died and because we've had more COVID deaths,
+
+13:48.440 --> 13:55.960
+therefore all the COVID deaths must be new and excess deaths. And that's it.
+
+13:56.680 --> 14:05.960
+And Jonathan Cooe does a fantastic job. I'm so thankful he brings this up. When we had all of
+
+14:05.960 --> 14:12.440
+these excess people dying of drug overdoses, well, where did that fit in? If you look back,
+
+14:12.520 --> 14:20.040
+if you use the 2000 number, and if you have, let's just say 300,000 excess deaths from drug
+
+14:20.040 --> 14:26.680
+overdoses, how is that not factored in? And the point is that they don't want you to factor that
+
+14:26.680 --> 14:35.400
+in, whether it be Anthony Fauci or the World Health Organization, or the so-called truth and expose
+
+14:35.400 --> 14:40.360
+whatever movement, the medical movement, they will not allow you, at least with the US, they
+
+14:40.680 --> 14:48.040
+mention this because it will change how you view this. So we have undoubtedly had an excess
+
+14:48.040 --> 14:53.560
+number of people dying. We've undoubtedly have had more younger people dying. These are unquestionable,
+
+14:53.560 --> 15:02.040
+but why? Now note, I made no statement that there's no pandemic. It is impossible for me to ever
+
+15:02.040 --> 15:08.200
+prove that there isn't a leaf or rock somewhere that's hiding the SARS-O virus. It's impossible to
+
+15:08.200 --> 15:14.280
+ever make a statement that nobody died of a new virus. So I don't entertain that.
+
+15:14.840 --> 15:21.000
+What I do say, though, is that when looking at all of the new reasons why people have died,
+
+15:21.000 --> 15:27.400
+including a massive surge in drug overdose deaths, of course, hospital protocols, denying people
+
+15:27.400 --> 15:35.320
+access to antibiotics because they had a viral pneumonia, viral, whatever, have all killed excess
+
+15:35.320 --> 15:42.760
+people. And when you factor all of these things out, you're just not left with a million people
+
+15:42.760 --> 15:49.160
+that could have possibly died of COVID. So why is the entire conversation about is there COVID or
+
+15:49.160 --> 15:58.120
+not? It's the wrong argument to have. Historically, and I'll just go down the historical path a
+
+15:58.200 --> 16:01.400
+little bit, and then we can see where we are.
+
+16:02.840 --> 16:10.280
+Sometime in the late 1990s, synthetic opioids were introduced to the market of the United States
+
+16:10.280 --> 16:16.520
+by a company called Purdue Pharma. And I mean, painkillers have been around forever.
+
+16:17.880 --> 16:22.440
+They are a wonderful tool. Imagine how many people have had horrible injuries,
+
+16:22.440 --> 16:28.760
+unfortunately from war, car accidents or whatever, that surgeries have been able because of painkillers,
+
+16:28.760 --> 16:35.480
+morphine and heroin, so on, are wonderful tools. They have a place they're not evil. They can be
+
+16:35.480 --> 16:44.920
+misused. The natural medicines, although addictive, are not nearly as addictive as the synthetic,
+
+16:44.920 --> 16:50.280
+the heavily processed ones and things like OxyContin are extraordinarily addictive.
+
+16:51.080 --> 16:57.720
+I don't care how strong your faith is. It is they cause chemical damage to your system
+
+16:57.720 --> 17:03.560
+that will make you simply want more of them. And although they can be used responsibly,
+
+17:04.200 --> 17:11.160
+they need to be respected. Just like using a sushi knife, you can't just
+
+17:11.160 --> 17:16.200
+slice and things up in your kitchen. You have to respect that blade. It's not the blade in
+
+17:16.200 --> 17:23.400
+of itself, though, it's bad. Anyways, so the number of prescriptions and uses of these drugs
+
+17:23.400 --> 17:30.840
+have just gone up and up and up. And starting around 1999, 2000, and very slowly, the number of
+
+17:30.840 --> 17:38.440
+people who are dying of drug overdoses crept from 20,000 a year, in the year 2000, all the way up
+
+17:38.440 --> 17:49.960
+to 113,000 are record year in 2023. These has an enormous impact on life expectancy.
+
+17:51.080 --> 17:54.760
+Of course, it's going to have a major impact in demographics of the United States.
+
+17:55.640 --> 18:04.600
+And I believe this data has been misused to fuel, as part, in part, the pandemic narrative.
+
+18:05.480 --> 18:11.960
+And although it seems how could they possibly be related? These things seem different. Maybe
+
+18:11.960 --> 18:20.840
+it's just a coincidence. Okay, I will offer you this. The Purdue pharma, which is recently no
+
+18:20.840 --> 18:27.240
+longer open. Other companies are making those drugs, so they've been sued. The family that
+
+18:27.240 --> 18:32.040
+created that was a family called the Sackler family, S-A-C-K L-E-R. And you can read a lot
+
+18:32.680 --> 18:40.200
+about the Sackler family. When the patriarch of that family died, Raymond Sackler,
+
+18:41.480 --> 18:46.040
+if you look at the people who were his best friends and speaking at the funeral, one of them was,
+
+18:46.040 --> 18:53.800
+first one was Joshua Laderberg, who was perhaps America's foremost person with respect to history
+
+18:53.800 --> 18:58.600
+on the development of biological weapons. He coined the phrase microbiome and emerging
+
+18:58.680 --> 19:04.520
+diseases, Joshua Laderberg did. He passed in 2007 to 2008, I think. And the other one was a
+
+19:04.520 --> 19:10.280
+Dr. Phil Sharp of MIT, who stars student Melissa Moore as the Chief Science Officer of Moderna.
+
+19:11.240 --> 19:17.960
+So I openly speculate about the possibility that some of this transition to synthetic opioids,
+
+19:17.960 --> 19:25.960
+an engineered epidemic, epidemic of killing people with drugs, was perhaps allowed because
+
+19:25.960 --> 19:31.720
+to transition to this new era of genomics, big data analytics, gene therapy, and so on,
+
+19:31.720 --> 19:37.960
+there needed to be a pandemic. And if you listen to the scientist talk that the greatest accomplishment
+
+19:39.160 --> 19:45.880
+since the wheel has been gene therapy, why wouldn't they consider the possibility of killing a few
+
+19:45.880 --> 19:53.080
+hundred thousand people to create the data for a pandemic to get us there? I have no trouble
+
+19:53.080 --> 20:00.360
+doing that. So I've just tied several things together. I don't have proof, but I'm the fact
+
+20:00.360 --> 20:06.840
+that there is this unwillingness, even in the truth movement, to talk about this, I think is
+
+20:06.840 --> 20:13.880
+evidence that it is relevant. It is relevant. But I think it's evidence that there's multiple
+
+20:13.880 --> 20:20.440
+parties involved in hiding the role and impact of this drug epidemic in the United States.
+
+20:21.400 --> 20:30.200
+Can I ask you, the way this drug is structured, could it be also produced in a way so that it's
+
+20:30.200 --> 20:37.240
+not that addictive, but still has the same results, that it really takes away your pain and so on.
+
+20:37.240 --> 20:41.720
+But this seems to go further. It's not only pain killing, but as you said, it makes you
+
+20:41.720 --> 20:51.160
+agree for more. But has anyone ever looked at the structure of this specific drug,
+
+20:51.160 --> 20:57.320
+so that it creates this need to have more of it?
+
+20:59.880 --> 21:08.040
+Well, long-term opioid use of any type, natural or not, is definitely going to
+
+21:08.920 --> 21:16.040
+lead to a less effective economy at the very least. However, history has shown that the,
+
+21:16.920 --> 21:24.040
+for example, the morphine and heroin used in previous wars, World War II, Vietnam,
+
+21:24.040 --> 21:33.560
+well, it definitely led to addictions. Many troops, many US servicemen who went to Vietnam War,
+
+21:33.640 --> 21:37.640
+who had trouble with heroin addictions coming back, were able to quit.
+
+21:39.160 --> 21:44.840
+The success rate of quitting addiction to these synthetics is very different.
+
+21:47.400 --> 21:53.800
+I can't chemically describe it, but from what I've been able to study about addiction overall,
+
+21:53.800 --> 22:00.120
+is that these neurological pathways, believe it or not, are actually very similar
+
+22:00.760 --> 22:09.000
+across a wide variety of addictions, whether it be pornography or gambling or even opioids.
+
+22:09.560 --> 22:19.000
+Once the brain no longer develops this pathway of illogically going back and producing the same
+
+22:19.000 --> 22:25.000
+behavior, even though it has no beneficial results whatsoever, it's interesting. It's like what
+
+22:25.000 --> 22:30.520
+are finding a way through a dam, no matter how much caulking you put into the hole,
+
+22:30.520 --> 22:36.520
+the water just keeps wanting to go through it. These synthetic opioids just burst open these
+
+22:36.520 --> 22:49.560
+paths, and it's very, very difficult to get back. What tends to happen is that the things like
+
+22:49.560 --> 22:55.160
+oxycontin are highly addictive, but eventually, as the addiction gets worse, people want more.
+
+22:56.280 --> 23:03.960
+There are more and more powerful versions of these opiates. One is called fentanyl. I'm sure you've
+
+23:03.960 --> 23:12.280
+heard of it, which is extremely powerful and also very little is required to cause a fatal overdose.
+
+23:12.280 --> 23:16.680
+Another one is called cart fentanyl, which is even more powerful. That's actually used as a
+
+23:16.680 --> 23:23.720
+tranquilizer for elephants. This stuff is relatively abundantly available. It's used in hospice.
+
+23:25.000 --> 23:33.480
+It is used by veterinarians or animals, so it's not as if it's impossible to find. I know
+
+23:35.000 --> 23:41.560
+it's often mischaracterized in the United States as a foreign, as an international border issue.
+
+23:42.440 --> 23:50.680
+While that is an element of it, you'd be surprised to find that many families that have direct
+
+23:51.240 --> 23:56.440
+interactions with this stuff and knowledge will actually encourage people to not think about it
+
+23:56.440 --> 24:04.600
+solely as a border issue. For adults or for anyone who becomes addicted, if you,
+
+24:05.480 --> 24:09.400
+since it's very difficult to get actual oxycontin after your prescription runs out,
+
+24:10.360 --> 24:16.440
+what will happen is you can find the even more concentrated stuff available,
+
+24:16.440 --> 24:21.800
+usually very inexpensively on the street, outside of a doctor for less and less money.
+
+24:24.920 --> 24:29.800
+Another issue is that this fentanyl, because it's relatively cheap and abundant,
+
+24:30.760 --> 24:40.280
+there are parties within the United States that have produced artificial prescription pills,
+
+24:41.080 --> 24:50.360
+such as Xanax or other things which people would prescribe for other neurological conditions,
+
+24:50.360 --> 24:55.000
+et cetera, depression. They will make these things in their garage with a very simple
+
+24:55.080 --> 25:00.040
+press with the powders, they'll press it in, and then these bags of pills will pop up,
+
+25:00.920 --> 25:07.320
+and sometimes kids will do something stupid to go to a party. They go, oh, here's this type of pill.
+
+25:08.200 --> 25:13.400
+I saw this on a movie somewhere. Let's take a few and be stupid kids, and there have actually
+
+25:13.400 --> 25:17.880
+been overdoses of children in the United States that weren't addicts at all. They simply didn't,
+
+25:18.760 --> 25:26.040
+I mean, kids do stupid things, right? Unfortunately, I never quite did that as a kid. I did other
+
+25:26.040 --> 25:33.000
+stupid things though, but these risks exist, and although I am not the person who's going to give
+
+25:33.000 --> 25:40.600
+you the solutions to this stuff, I know that the very first part of any solution is public awareness,
+
+25:40.600 --> 25:47.160
+public acknowledgement of how big the role is, public acknowledgement of how this stuff finds
+
+25:47.160 --> 25:53.160
+its way to people, acknowledgement of how severe and quick the addictions can start as little as
+
+25:53.160 --> 26:01.000
+two to three days of use of some of these prescriptions, and that's the very first step. Long-term,
+
+26:01.880 --> 26:05.560
+it's very complicated. I know there's weaker families within the United States. There's all
+
+26:05.560 --> 26:10.680
+these other chemicals which are being bombarded with, and I'm not saying that it's someone else's
+
+26:10.680 --> 26:17.800
+problem. We actually, it's all of our problems in a way, but nothing changes without the very
+
+26:17.800 --> 26:25.880
+least recognition of the threat. And again, I believe that public discussion of this is being
+
+26:27.000 --> 26:34.200
+discouraged because it dares to impact the interpretation of the data that is being seen
+
+26:34.760 --> 26:38.680
+regarding the COVID-19 pandemic. I think it is a big part of it, not all of it,
+
+26:39.640 --> 26:47.480
+but in this, how are you saying, a component that cannot be ignored responsibly?
+
+26:48.120 --> 26:53.000
+And do you know what I find interesting? I mean, here you see the same pattern as with the
+
+26:53.880 --> 26:59.640
+the vaccine, so-called vaccination. You have a basically a very dangerous product in the market,
+
+26:59.640 --> 27:05.080
+and instead of taking it off the market once the issues occurs, because that cannot be
+
+27:05.160 --> 27:12.200
+happening behind the doors or invisible to decision-makers in the US, like the FDA or something,
+
+27:12.200 --> 27:17.800
+you know, other entities who could like cry out and say, hey, we have a major problem. And instead,
+
+27:17.800 --> 27:23.560
+they're not pointing, as you said, to the oranges of the problem. And with corona, we have the same
+
+27:23.560 --> 27:33.640
+thing. So it's a treatment with results that are becoming more and more obvious as being
+
+27:33.640 --> 27:37.640
+dangerous, and it's not taking off the market. It's the same thing. Instead, it's maybe like,
+
+27:37.640 --> 27:42.840
+I mean, it's now even rolled out to serve kids. I mean, you know, that's the opposite of what
+
+27:42.840 --> 27:49.240
+you'd expect of like a responsible decision-maker in this kind of, in this very important field
+
+27:49.240 --> 27:58.280
+of health, like to the population. I completely agree. It is possible that there could be great
+
+27:58.280 --> 28:03.160
+benefits in the future to some of these new medical technologies. I don't discount that.
+
+28:03.800 --> 28:08.040
+I encourage the research and development and the exploration. And if people want to
+
+28:08.680 --> 28:14.280
+sign up for trials, by all means, as long as the right risk profile is shared with them.
+
+28:15.000 --> 28:22.920
+However, in this case, if a proper analysis was done considering hospital protocols,
+
+28:22.920 --> 28:33.080
+considering other ongoing concurrent epidemics, such as the drug epidemic, there would not have
+
+28:33.080 --> 28:39.960
+been a condition to facilitate the rollout of these new pharmaceuticals in the first place.
+
+28:41.080 --> 28:46.200
+So while discussion of their danger is absolutely warranted,
+
+28:49.640 --> 28:54.200
+it is appropriate to ask that they really serve any benefit in the first place.
+
+28:55.080 --> 29:04.680
+And I would suggest that the answer is no. So you can't make something safe
+
+29:06.120 --> 29:13.320
+if it doesn't solve anything in the first place. So why doesn't the discussion just stop right
+
+29:13.320 --> 29:17.960
+there as opposed to, well, there seems to be more myocarditis or whatever. I don't know. I haven't
+
+29:17.960 --> 29:23.160
+done the full breakdown of the vaccine. I'm thankful for the people who have. But I would just look
+
+29:23.160 --> 29:30.680
+at the base data. And again, why is it openly, people are openly allowed to say,
+
+29:30.680 --> 29:35.560
+oh, this vaccine is out there to kill people. Oh, this vaccine is out there to do this, to do that,
+
+29:35.560 --> 29:45.560
+whatever. No discussion is allowed of protocols or other ongoing epidemics.
+
+29:45.560 --> 29:54.280
+Well, I've come, can I ask you these drugs that Mark mentioned, are these also available in
+
+29:54.280 --> 30:00.760
+Germany, because or like in Europe, because we do, I mean, I'm not really, I don't know. But like,
+
+30:00.760 --> 30:09.560
+I had assumed that this is not, you know, as an sort of drug epidemic, as you know, here,
+
+30:10.520 --> 30:18.760
+compared to the US. You know, it's a great point. It varies nation to nation by a
+
+30:18.760 --> 30:23.880
+variety, due to a variety of things. There are nations that actually have it worse than the
+
+30:23.880 --> 30:30.040
+United States. I've heard this. I verified it last night coincidentally. Pakistan is actually
+
+30:30.040 --> 30:37.080
+amongst the worst countries in the world. Now, I know that's a shocking number for some reason
+
+30:37.080 --> 30:41.480
+where we are predisposed to thinking that Islamic nations perhaps that lower drug use.
+
+30:42.520 --> 30:50.520
+Pakistan has, I think, 700 people dying a day of a drug overdose 700. I think their population
+
+30:50.520 --> 30:59.640
+is 140 million. Someone can check that. It's up there. But 700 a day. That's that means in,
+
+30:59.640 --> 31:04.920
+like in two weeks, they've had more deaths from that than Ebola in Africa in the last 10 years.
+
+31:05.720 --> 31:12.360
+So why does that get no attention? Now, of course, again, because of a variety of social
+
+31:12.360 --> 31:18.440
+challenges that Pakistan has, perhaps they have a large population of males that just don't feel
+
+31:18.440 --> 31:23.720
+so they have much of a future. I don't know. I'm not the person to comment on that. But there are
+
+31:23.720 --> 31:28.680
+other countries that have very, very, very low drug use. Is it now? Is it a difference because of
+
+31:29.640 --> 31:38.760
+pharmaceutical controls? Is it culture? Is it age? I don't know why that is. Canada, in some areas of
+
+31:38.760 --> 31:45.000
+Canada, the number of drug overdose deaths per day is almost as high as it is in the United States.
+
+31:45.640 --> 31:50.840
+And some other areas of Canada, it's very low. Perhaps it'll be alcohol or something else.
+
+31:51.960 --> 31:58.600
+I can't quite describe all of that. And one thing I've noticed, perhaps you've seen this as well.
+
+31:58.680 --> 32:04.840
+Right? I know Germany has its unique characteristics of what has gone on during the pandemic and
+
+32:05.960 --> 32:13.080
+all the things. I'm not even going to list right now. But as an American,
+
+32:14.200 --> 32:19.880
+put forward the challenges of my country and how I see it. I am oftentimes said, well, hold on,
+
+32:19.880 --> 32:24.520
+hold on. Portugal had this problem over here. So how can you overlook it?
+
+32:24.520 --> 32:31.080
+I can barely get people in my own country to understand the challenges in my own country.
+
+32:31.640 --> 32:37.640
+I'm not in a position to go over the challenges in the other 199 nations on the planet. And I know
+
+32:37.640 --> 32:46.920
+that they're there. But what I've seen is for as an American to overlook challenges in my country
+
+32:46.920 --> 32:54.440
+based upon how things perhaps have gone in other nations. And again, I appreciate people wanting
+
+32:54.440 --> 33:00.680
+to look at a bigger picture. But I don't know. I mean, Portugal, for example, there is a narrative
+
+33:00.680 --> 33:05.400
+that Portugal had a high number of COVID deaths. A lot of people show up at the hospital in this
+
+33:05.400 --> 33:13.640
+and that and maybe I can't disprove that or prove it. But what I do know is that until the most
+
+33:13.640 --> 33:19.880
+important problems right in front of me in my own country are solved, I can't change how I attack
+
+33:20.840 --> 33:25.720
+the list of priorities because of what happened in that one hospital in Portugal.
+
+33:26.360 --> 33:31.960
+So I'm not trying to be rude about it. But I think people really just need to sometimes just
+
+33:31.960 --> 33:36.920
+look at the data right in front of them and act accordingly, supposed to being told what they
+
+33:36.920 --> 33:43.240
+shouldn't should not focus on by everything else nor. But yes, there are other countries that have
+
+33:43.240 --> 33:48.120
+it worse. And I think there's a variety of conditions that have led into that.
+
+33:48.600 --> 33:50.840
+Wolfgang, you know about the German situation.
+
+33:53.800 --> 33:59.480
+I was sorry. I just, you know, I'm asking him. I guess you know him.
+
+34:01.000 --> 34:05.480
+By the way, thank you. It's an honor to be on a webcast with you. Thank you for all the work
+
+34:05.480 --> 34:13.080
+you've done and for being an early voice standing up. It took several of us a while to get to the
+
+34:13.080 --> 34:19.160
+same point because we were all predisposed to thinking different things, right? But I'm so
+
+34:19.160 --> 34:22.200
+thankful for the work you did. And thank you for still being in this fight with us.
+
+34:23.080 --> 34:29.800
+You know, the comparing the states how they handle the drugs is very interesting. I think
+
+34:29.800 --> 34:35.080
+I did not do it very thoroughly. But I know that in Germany, we have a very restrictive law
+
+34:35.640 --> 34:43.000
+that several drugs which are which make addictions that they are regulated in a special way that
+
+34:43.000 --> 34:49.240
+doctors have to use special prescription formulas to prescribe them. And they are each formulas
+
+34:49.240 --> 34:55.880
+registered. And so it's easy to control which doctor does it. When I was in the public health
+
+34:55.880 --> 35:01.000
+office, there was there was some doctors who were just doing it, you nevertheless. And they were
+
+35:01.560 --> 35:08.680
+attracting drug addicts by giving them very often those. But you can just go into the pharmacy. And
+
+35:08.680 --> 35:14.440
+when you see, you draw, see the drawer where the drugs are. And you see the recipes all come from
+
+35:14.440 --> 35:22.600
+one doctor. And you go to the doctor and have a talk with him. You know, and you can stop this.
+
+35:22.600 --> 35:28.840
+So it's not so in Germany, it's easier to control. There is a black market for sure. And there are
+
+35:29.240 --> 35:35.320
+sold which are which are smuggled and whatever. And there are falsified drugs everywhere in there.
+
+35:35.320 --> 35:41.000
+They mix something and they say sell it very toxic stuff sometimes. But I think there are not,
+
+35:41.000 --> 35:47.960
+there's not such a problem as it is in US. But I wanted to comment on another thing that
+
+35:47.960 --> 35:54.200
+if there is in some hospital in Portugal, or if there is only in New York, suddenly such an amount
+
+35:54.200 --> 36:01.320
+of people dying in April 2020 or so. Or when there is in North Italy, suddenly,
+
+36:01.320 --> 36:09.320
+a spot where so many people die in in San Francisco, you see nothing. If there's nothing like that,
+
+36:09.880 --> 36:15.720
+this cannot be a pandemic virus. This is very sure if there is really a pandemic virus,
+
+36:15.720 --> 36:20.200
+which is spreading with all the airplanes with the spreading with all the traffic all over the
+
+36:20.280 --> 36:27.560
+world, then you would not see spots where people are killed like with Minazulam in England.
+
+36:27.560 --> 36:33.720
+You can see the prescription of this of this diatsipam of this tranquilizer. And in the same
+
+36:33.720 --> 36:38.360
+time, you see the people dying in hospitals at the same time, in the same amount. And again,
+
+36:38.360 --> 36:43.160
+a little bit less. And again, the prescription a little bit less. You see directly connection
+
+36:43.160 --> 36:49.640
+between the amount of drugs prescribed in hospitals and people dying in those hospitals.
+
+36:49.640 --> 36:57.160
+So and only in those hospitals. So, and it's I think it's a very, very, very hard data
+
+36:57.160 --> 37:02.120
+that shows it's not that I forget about viruses and look for the other reasons.
+
+37:02.840 --> 37:09.240
+And I'm glad you've mentioned New York City. Jessica Hockett, of course, I hope you have or
+
+37:09.240 --> 37:17.080
+will talk with her within the United States made an observation that there was a high number of
+
+37:17.640 --> 37:25.880
+within this month of April, 2020 in New York City, emergency medic or ambulance responses.
+
+37:27.000 --> 37:32.040
+And people who were considered to be classified as having died in their house,
+
+37:32.920 --> 37:39.560
+or were dead upon arrival. Hopefully I'm characterizing this right to a New York City hospital. Now,
+
+37:40.440 --> 37:46.200
+one change that New York City made. Wasn't in that month of April, 2020.
+
+37:47.240 --> 37:52.920
+Was I'm gonna say an order, but the very least a strong recommendation.
+
+37:54.200 --> 38:03.880
+To be careful who an emergency response person would would revive. Because of the possibility
+
+38:03.880 --> 38:12.200
+that reviving someone could spread the virus. Now, so there are several cases that Jessica
+
+38:12.200 --> 38:16.680
+Hockett has found where there was like a 33 year old who was dead in their apartment.
+
+38:17.720 --> 38:26.520
+And it's marked as a COVID death. Now, again, I can't look at every molecule that ever existed
+
+38:26.520 --> 38:31.240
+on a planet and say there's no such thing as a COVID molecule that causes someone to just die
+
+38:31.320 --> 38:39.000
+in their bed. However, the profile of that person looks like someone that may have been
+
+38:39.000 --> 38:45.240
+in the midst of a drug addiction. Perhaps they were in a case where they needed an emergency response.
+
+38:46.440 --> 38:52.840
+And they were not given whatever emergency therapy was needed to bring them back.
+
+38:52.840 --> 38:58.600
+Because of this emergency declaration and these special ways of handling it. So,
+
+38:59.560 --> 39:05.320
+now you have this, if you want to fuel the pandemic narrative, you have this wonderful data
+
+39:05.320 --> 39:11.800
+of 30 year olds just dying in their apartment. Oh, it's it's COVID. And this is enough again to
+
+39:11.800 --> 39:17.080
+create this cascade of well, it's must be even worse than we thought. Therefore, we need more
+
+39:17.080 --> 39:26.200
+lockdowns, more emergencies. Now we need more therapeutics and vaccines and so on. But what
+
+39:26.200 --> 39:32.200
+you said, again, I don't want to offload all responsibilities to doctors. Okay, there are
+
+39:32.200 --> 39:36.920
+communities with the United States that have had very low levels of drug addiction. They have very
+
+39:36.920 --> 39:46.680
+strong families, strong faith, etc. So it's not purely a doctor thing. However, and I think people
+
+39:46.680 --> 39:53.160
+need to be aware, right? If I think most people know you don't give a four year old keys to your car,
+
+39:53.240 --> 39:56.920
+right? There's just certain things you just know, because you can understand the risks.
+
+39:58.200 --> 40:03.720
+But people don't realize how serious the risks can be of the addictiveness of some of these
+
+40:03.720 --> 40:12.920
+painkillers, which have a role. But without people being involved or having the knowledge to act
+
+40:12.920 --> 40:18.040
+appropriately, these addictions are created. So I don't want the doctors to have that much power,
+
+40:18.040 --> 40:24.280
+but the same time, there are cases such as Germany, you see the addiction rates are much lower,
+
+40:25.080 --> 40:30.680
+perhaps because in this case, the the extra controls are warranted.
+
+40:31.800 --> 40:37.400
+Oh, it's a very it's a it's a big discussion to have. But again, this explains the differences
+
+40:37.400 --> 40:44.920
+between nations. It's very interesting. The WHO has made, has said there were many pandemics
+
+40:44.920 --> 40:51.080
+already, they had many pandemics, and they are preparing the nations now. They are
+
+40:51.080 --> 40:55.000
+if we're doing it for some years, or if for a certain new kind of pandemic,
+
+40:56.760 --> 41:07.560
+non diseases that cannot be transmitted to others. And how do they say non contaminating or non
+
+41:07.880 --> 41:13.320
+infectious, contagious, infectious and infectious? Yes. And they they,
+
+41:13.960 --> 41:22.040
+and they call it, and they they they prepare this, and they were defined with what new pandemic
+
+41:22.040 --> 41:29.640
+from NCDs will come. And I'm curious why they did not mention up to now, it is not a topic,
+
+41:29.640 --> 41:36.040
+this addiction. WHO doesn't speak about that, they speak about obesity, they speak about alcoholism,
+
+41:36.040 --> 41:41.880
+they speak about cigarettes, but they don't speak about those those drugs, those painkiller
+
+41:41.880 --> 41:47.640
+drugs. They didn't have it on their on their agenda, although it's a big elephant in the room.
+
+41:50.200 --> 41:58.200
+There are some scientists and policy advisors who will mention it. And
+
+42:00.520 --> 42:05.000
+are you familiar with the United States, the former director of our Centers of Disease Control,
+
+42:05.000 --> 42:12.600
+Dr. Redfield? Have you heard of that name before? Well, he was our former director of our CDC.
+
+42:13.320 --> 42:19.960
+He is he's been in this business for a long time. And I gave him a lot of credit for emphasizing
+
+42:19.960 --> 42:25.560
+many times last several years. He's no longer in the role that this was one of the greatest
+
+42:25.560 --> 42:31.720
+challenges of the United States. Okay. Now, of course, he was completely ignored by our main
+
+42:32.520 --> 42:39.240
+news sources. But Redfield, of course, when the pandemic started, he plays a lot, right, with it
+
+42:39.240 --> 42:49.960
+as well. I sometimes believe that there are officials who perhaps feel as though that if they
+
+42:51.160 --> 42:57.800
+participate a little in the show, right, that maybe by staying in the role, they can help
+
+42:58.520 --> 43:05.480
+steer attention towards other things. Maybe there may be there, it helps. Maybe,
+
+43:06.440 --> 43:10.680
+maybe dozens, I don't know, but there are officials that have stated this. But I'll tell you what,
+
+43:10.680 --> 43:18.040
+even if someone were to say it, it's ignored. Former US President Donald Trump has met several
+
+43:18.120 --> 43:28.200
+times with, let's just say, an association here in that I live near that supports families that
+
+43:28.200 --> 43:34.600
+have lost children to drug overdoses. And they found Trump to be extremely receptive to this.
+
+43:36.280 --> 43:42.120
+Trump tried several times to pass additional legislation and was completely incapable of.
+
+43:42.760 --> 43:49.960
+He was almost ridiculed for it. Now, the drug crisis got worse after the Trump administration.
+
+43:49.960 --> 43:55.080
+So I'm not saying that Trump was a successful president in this. If you just look at the data,
+
+43:55.080 --> 44:02.760
+he failed. All right. However, even his attempts to talk about it were ridiculed by mainstream
+
+44:02.760 --> 44:11.080
+media. And to this day, they're still completely overlooked. So in the WHO,
+
+44:12.600 --> 44:16.440
+I refuse to believe that everyone in the World Health Organization is a bad person.
+
+44:17.960 --> 44:22.040
+I'm sure that there are other individuals of the WHO. If you look at some of the
+
+44:23.080 --> 44:28.920
+throughout their website that highlight this, but ultimately their main message is filtered
+
+44:28.920 --> 44:35.160
+somewhere. And the message is just not allowed to talk about this. And it's a shame. There are
+
+44:35.160 --> 44:42.280
+health organization, their role should be to advocate health to raise awareness of health risks.
+
+44:43.880 --> 44:49.480
+Conceptually, it could be a good thing, but they only allow people to focus on one thing.
+
+44:50.120 --> 44:55.800
+And these vaccines have had this great discussion before. Perhaps they wouldn't have been pushed on
+
+44:55.800 --> 45:01.080
+people if people understand the whole profile of health risks. We want to
+
+45:02.600 --> 45:08.360
+research gene therapy, the treat cancers and tumors. That's fantastic. I support it. I'm an
+
+45:08.360 --> 45:14.760
+engineer. I support it. But this stuff is very experimental still. It's still just a speculation
+
+45:14.760 --> 45:21.640
+that it could ever work. But to just push it on the whole world by not allowing a full discussion
+
+45:21.640 --> 45:28.280
+of everything, everything from engineered food, drug addictions, societal ills, family breakdowns,
+
+45:29.640 --> 45:33.720
+all of this horrible stuff that's on the internet, et cetera, all of these things combined.
+
+45:35.080 --> 45:42.360
+It's irresponsible. It's unfortunate. And I'm trying to have an approach to this that I would
+
+45:42.360 --> 45:48.760
+inspire other people, as opposed to just having a pure conspiratorial approach to it. And I'm
+
+45:48.760 --> 45:55.240
+feeling positive as time goes on, that I think we've been turning a corner. I think we're having
+
+45:55.240 --> 46:02.120
+really good rational discussion about reflecting back on the pandemic now. Regarding what you just
+
+46:02.120 --> 46:08.280
+said, Doctor, about the next pandemic, disease X or whatever it is. Yes, I've heard it. And
+
+46:08.280 --> 46:12.680
+I've expected nothing less than another pandemic.
+
+46:13.640 --> 46:18.760
+Well, so what is your take? You mentioned the Lyme disease. So what's your take on that?
+
+46:21.160 --> 46:27.240
+To review Lyme disease, it's a very well known within North America, United States and Canada,
+
+46:27.240 --> 46:33.960
+and other countries. It is a immune system deficiency, which seems to be cause associated with
+
+46:34.920 --> 46:45.000
+Arthur Potter, tick-borne illnesses. And it's named after a small town in the state of Connecticut,
+
+46:45.000 --> 46:50.520
+not too far from New York City called Lyme, old Lyme, Connecticut, where it was first discovered
+
+46:50.520 --> 47:00.600
+in the mid 1970s. It's very easy to trace the epidemiology of this to a animal infectious
+
+47:00.600 --> 47:05.640
+disease research facility called Plum Island, which is very, very close to there,
+
+47:06.680 --> 47:13.240
+which I believe most likely had an accidental release of some non-native tick species,
+
+47:14.040 --> 47:22.200
+which perhaps hosted some artificially injected bacterium. Now, early in the pandemic, I was
+
+47:22.200 --> 47:28.680
+tricked into thinking that that was the evidence that SARS was real and SARS was from a laboratory.
+
+47:28.680 --> 47:34.920
+It took me over a year to think more about that and realize that I was perhaps being misled.
+
+47:36.760 --> 47:44.520
+It's still not clear to me how much of that, although I know that that illness is real.
+
+47:44.520 --> 47:49.880
+They've seen these very, the illness itself is actually a type of bacterium called aspyracate,
+
+47:50.600 --> 47:57.080
+which is very corkscrewed and very much similar to syphilis in many ways. In fact, in the United
+
+47:57.080 --> 48:08.280
+States, there has been some research done and a very high percentage of people that have done
+
+48:08.280 --> 48:15.240
+autopsies that have died of things like Alzheimer's and other long-term neurological degeneration
+
+48:15.240 --> 48:19.640
+have had undiagnosed forms of syphilis, whether it be Lyme or something else.
+
+48:20.440 --> 48:26.440
+So I think it is real, but the question is, is how much of this is to blame on the bacterium
+
+48:27.240 --> 48:32.520
+how much of it is because we have weaker immune systems now than perhaps we did 20 years ago.
+
+48:33.400 --> 48:36.600
+And I didn't really factor that in at the beginning of the pandemic, but
+
+48:37.800 --> 48:43.800
+if these organisms, which have existed for a long time are real, I don't see how it's possible
+
+48:43.800 --> 48:47.880
+that North America could have been inhabited by Native American country, Native American,
+
+48:47.880 --> 48:55.240
+First Nation Americans for 10,000 years without all dying. So possibly combinations of our foods
+
+48:55.240 --> 49:02.920
+and childhood immunizations have weakened our immune system so that while Lyme disease is a
+
+49:02.920 --> 49:10.440
+challenge, it's not just Lyme disease. It actually speaks to our bigger weakening of our overall health.
+
+49:11.560 --> 49:17.800
+I think we have a new image as soon as we have some new possibility of diagnosis.
+
+49:18.520 --> 49:21.240
+There were ticks all the way in all forests everywhere.
+
+49:22.040 --> 49:26.520
+And there were people with rheumatism, they called it rheumatism, they got nervous diseases,
+
+49:26.520 --> 49:32.120
+but they didn't have a diagnosis. So maybe Borreliosis, how we call Lyme disease,
+
+49:33.480 --> 49:40.280
+Borreliosis, yes. It's a very ancient disease, but it was never diagnosed because we had no
+
+49:40.280 --> 49:48.200
+possibility to find it. Yes. We know bacteria that they are the reason for such diseases.
+
+49:48.200 --> 49:54.360
+We know for now 100 and I don't know 50, 70 years or so, it's not so long that we have the
+
+49:54.360 --> 50:00.360
+possibility to find those small bacteria. Now we know viruses, there's still more recent,
+
+50:01.560 --> 50:07.000
+it's even 100 years or so, the first time someone thought of viruses, and now they're trying those
+
+50:07.000 --> 50:14.600
+nuclei, those genetic, the molecule trying to find out the molecules, but they don't know
+
+50:15.560 --> 50:24.040
+all the things going on in nature with all those bacteria, viruses, and what else is there,
+
+50:24.040 --> 50:29.080
+which are all communicating, and which are there long before we thought of them. For sure, they
+
+50:29.080 --> 50:34.680
+are there for thousands of years, and you can find them in human beings, you find the traces
+
+50:34.680 --> 50:42.040
+in our genomes. We have contacts with all those microbeology. We were developed with them,
+
+50:42.600 --> 50:47.320
+and now suddenly there are people who have new instruments to find something very small,
+
+50:47.320 --> 50:52.600
+and they're very specialized on this, and they say, oh, I find something, and I'm making vaccine
+
+50:52.600 --> 51:00.360
+against this. It's so stupid, it's so narrow-minded. The way we look at that is so narrow-minded,
+
+51:00.360 --> 51:05.400
+and we should be much more calm with all those infectious diseases, because if it's an
+
+51:05.400 --> 51:10.600
+infectious disease, it comes from something which is there as long as human beings are there.
+
+51:11.240 --> 51:17.720
+In varieties, human beings change, viruses change, bacteria change, but this is a system
+
+51:17.720 --> 51:24.760
+which is communicating with the immune system. Very some hundred years ago, it was the first
+
+51:24.760 --> 51:29.800
+term that people from the continent, Europe, went to other continents. It's not a long time
+
+51:29.800 --> 51:35.480
+for human history as human beings, and then there was all those contacts with the aeroplanes coming
+
+51:35.480 --> 51:40.760
+from China, coming from everywhere, mixing all the bacteria, mixing all the viruses globally,
+
+51:40.760 --> 51:46.600
+and we still live. There were new ones. There were hundreds of new ones we never had contact with,
+
+51:46.600 --> 51:51.560
+which only lived in some Indonesia or in the forest or somewhere, and suddenly we had tourists
+
+51:51.560 --> 51:58.600
+there, and we survived. Our immune system is able to get to know all this and to do something against
+
+51:58.600 --> 52:05.080
+it. We have such a great possibility, biologically, great possibility, to adapt to all those
+
+52:05.960 --> 52:14.600
+forms of life we meet. We need to be afraid of bacteria. They make us afraid because they want
+
+52:14.600 --> 52:20.440
+to give us injections, money, and you know that all those dangerous infectious diseases,
+
+52:20.440 --> 52:25.560
+they all disappeared after the World War II, but only in those countries who lived well,
+
+52:25.560 --> 52:30.520
+who had enough to eat, have good departments, and so there were no more infectious diseases.
+
+52:30.520 --> 52:37.160
+Suddenly they were going down exponentially, and the vaccines didn't do anything about it.
+
+52:38.040 --> 52:46.360
+They were just a very, very small margin of all this. You almost cannot see. So living
+
+52:46.360 --> 52:52.200
+well and don't killing each other and eating well and don't taking drugs and all this,
+
+52:52.200 --> 52:56.760
+we know, is a good thing, but we don't have to be afraid of microbes.
+
+52:57.640 --> 53:08.760
+Although some people die, but much, much less and less, and if people expose themselves,
+
+53:08.760 --> 53:14.840
+if you go into a chicken farm where there are 10,000 chickens crammed together and you,
+
+53:14.840 --> 53:19.000
+as a human being, go into them and the chicken, they have something, maybe you get ill too,
+
+53:19.000 --> 53:25.240
+because that's just a massive contact. Or if you're doing, you have a sexual life,
+
+53:25.240 --> 53:30.360
+which is very dangerous, where you make meat people who have a serious disease that is
+
+53:30.360 --> 53:35.080
+transmittable, then you may get infected. Okay, but we know all this.
+
+53:36.920 --> 53:39.080
+So don't be afraid of,
+
+53:43.080 --> 53:48.200
+I'm not, well, I mean, in general, I think you're right, just that, and I'm not a doctor, but like,
+
+53:48.200 --> 53:53.640
+I know people who have been very ill, like with regards to like these symptoms
+
+53:53.640 --> 54:00.200
+of for a loser. And Mark, you mentioned your wife was also had these kind of issues. So I mean,
+
+54:00.200 --> 54:06.040
+there seems to be something, huh? Don't deny that people get ill from that. But you know, this,
+
+54:06.040 --> 54:12.200
+this has been before we know, knew that for a user's exist, people got ill too.
+
+54:13.080 --> 54:16.920
+I know, but do they have these kinds of symptoms? I don't know. I mean, it's just a question we
+
+54:16.920 --> 54:21.800
+would need to research a little bit. Or I mean, maybe you know more about it, but like, it seems to be
+
+54:21.800 --> 54:33.160
+like many of us have seen the impacts of perhaps in Germany, there are invasive weeds or trees
+
+54:33.160 --> 54:38.360
+that growing that are very, you know, you see them on the highway or near bridges. So clearly,
+
+54:38.360 --> 54:44.200
+when new species of plants or organisms are introduced to an area, it takes a while to read
+
+54:44.200 --> 54:50.120
+that, you know, to find that new equilibrium. With respect to Lyme disease, this is very well
+
+54:50.120 --> 54:58.280
+documented as a book by Chris Newby about this. There were non native forms of syphilis,
+
+54:58.280 --> 55:02.760
+physically being injected into ticks, which were also not native to the northeastern part of the
+
+55:02.760 --> 55:10.680
+United States. So these are like an invasive species. Okay, it's not native. But eventually,
+
+55:10.680 --> 55:19.720
+the environment will, you know, rediscover its equilibrium. Now, oftentimes, a treatment for
+
+55:19.720 --> 55:26.120
+Lyme disease is aggressive use of antibiotics, various supplements. And for the most part,
+
+55:26.120 --> 55:34.600
+most people can, you know, can, you know, remove these microorganisms from their body.
+
+55:34.600 --> 55:40.360
+It's a fair question, though, that perhaps if we had stronger immune systems, as we might have
+
+55:40.360 --> 55:47.960
+had 150 years ago, 200 years ago, that the body would be more capable of fighting these off.
+
+55:48.760 --> 55:55.720
+So there's so there's many elements to it. It is nonetheless, though, a real issue. I think many
+
+55:55.720 --> 56:01.960
+people could avoid it by just, you know, wearing your clothes a certain way when you go out into the
+
+56:01.960 --> 56:08.120
+woods. And I think many long term cases of it could be avoided if doctors were allowed to recognize
+
+56:08.680 --> 56:15.720
+that it's a real condition and maybe treat it initially, as opposed to saying someone's crazy
+
+56:15.720 --> 56:23.320
+for thinking it's a real problem and then letting it go. So, Wolfgang, if I, you bring up an excellent
+
+56:23.320 --> 56:29.240
+backstory here that this is actually an opportunity for me to share some of the, like, historical
+
+56:29.240 --> 56:35.000
+research that I've done that I'll bring into this. Within the United States, I think worldwide,
+
+56:35.000 --> 56:44.600
+in particular, within the United States, the events of World War I and the 1918 flu or the
+
+56:44.600 --> 56:57.960
+Spanish flu are oftentimes used as a reason to have any level of health policy response
+
+56:58.520 --> 57:04.680
+because it's always said that 50 million or 100 million people could die because of some new
+
+57:05.240 --> 57:12.040
+disease, some new bacterium, et cetera. Now, within the United States, there were approximately
+
+57:12.920 --> 57:22.440
+500,000 people that died in the year 1918 of what was identified as influenza. The US population
+
+57:22.440 --> 57:27.880
+at the time, I think, was about 140 million people. That's a lot of people to die in one year of
+
+57:27.880 --> 57:34.520
+influenza. And many of those people were definitely young, oftentimes 30, 35 years old, but almost all
+
+57:34.600 --> 57:44.040
+of them, but not maybe some family members as well, were in the military. World War I was a very
+
+57:44.040 --> 57:51.320
+unique time for military conflict. There were no helicopters and there were no army tanks in World
+
+57:51.320 --> 58:01.640
+War I. World War I involved animals, horses, mules, the United States transported almost one million
+
+58:01.640 --> 58:10.280
+animals across the Atlantic Ocean in World War I. In boats that had horrible ventilation conditions,
+
+58:10.280 --> 58:15.880
+these animals were malnourished, they were stressed, they were in a high humidity environment,
+
+58:15.880 --> 58:22.200
+and oftentimes they themselves were dying of a bacterial pneumonia that were in their lungs.
+
+58:23.480 --> 58:30.520
+When you factor in rail transport and boat transport, a high percentage of the US deaths were related
+
+58:30.520 --> 58:37.080
+to a really, really aggressive bacterial pneumonia that was highly correlated with US
+
+58:37.080 --> 58:43.880
+servicemen and the transport of animals in World War I. Germany and France, to some extent, also
+
+58:43.880 --> 58:52.440
+experienced this as well. The moment the war ended, the flu ended. So there was definitely a measurable
+
+58:52.440 --> 58:59.800
+tragedy that happened back then. The total number of deaths worldwide were not nearly as high as
+
+58:59.880 --> 59:07.240
+projected. In the US newspapers at the end of early 1919, it was stated that two English
+
+59:07.240 --> 59:13.000
+servicemen who were in India saw a lot of people, a lot of other troops also struggling with
+
+59:14.280 --> 59:22.280
+this pneumonia in 1918 in the port area. So they made a projection that the death rate of all of
+
+59:22.280 --> 59:31.080
+India was equal to the US and England. With no evidence other than two accounts based upon a
+
+59:31.080 --> 59:36.200
+port, which was also subject to the same conditions that we were seeing in the United States.
+
+59:37.320 --> 59:46.440
+And very quickly, potentially 1.5 million or 2 million deaths from this pneumonia were rounded
+
+59:46.440 --> 59:53.560
+up to being, well, it was probably 12 million worldwide. And then by 1950, well, it was probably
+
+59:53.560 --> 01:00:03.400
+20 million. The current encyclopedias will say it's probably 50 to 100 million. Now, the tragedy
+
+01:00:03.400 --> 01:00:11.080
+was real. It definitely impacted this population of people, but it has been completely mischaracterized
+
+01:00:11.160 --> 01:00:20.040
+and overhyped to justify this, oh my goodness, any day, something could happen with a vaccine
+
+01:00:20.040 --> 01:00:25.880
+or a Native American tribe or something and it can spread around the world. And only doctors can
+
+01:00:25.880 --> 01:00:32.760
+save you, only the scientists. That's it. It's an end times prophecy, if you will. And it's a
+
+01:00:32.760 --> 01:00:40.840
+ticket to do whatever, whenever. And I'm not saying that it was a hoax, but what I'm saying is that
+
+01:00:40.840 --> 01:00:47.880
+it was a real tragedy that has been completely mischaracterized and rewritten. And very few
+
+01:00:47.880 --> 01:00:57.160
+people are willing to to dig into this. All of this is documented. If you look at 1916, 1917
+
+01:00:57.160 --> 01:01:02.360
+newspaper articles, it was generally, there was this thing called the shipping flu. Whereas many
+
+01:01:02.360 --> 01:01:09.240
+is 25 to 30% of all animals that went on to a boat were dead by the time they got off of it
+
+01:01:09.240 --> 01:01:19.640
+because of the conditions that these animals were made to reside while in transport. This is
+
+01:01:19.640 --> 01:01:26.520
+being erased. And I think it's really important. I'm not saying to dig into history because you
+
+01:01:26.520 --> 01:01:33.880
+want to win a trivia game. I think it's really important for our own rights and so that we know
+
+01:01:33.880 --> 01:01:41.080
+how to properly view the direction of all the science is going to revisit and to properly
+
+01:01:41.080 --> 01:01:47.880
+capture this information in this history. Because it's being erased. And I think, well, as we can see,
+
+01:01:48.760 --> 01:01:56.600
+horrible things are happening because of what the erasure of this history is enabling. So I'm
+
+01:01:56.600 --> 01:02:09.800
+glad you brought that up, Dr. Mark, do you have a giant amount of topics that we could cover with
+
+01:02:09.800 --> 01:02:16.840
+you? And I find it very inspiring and very interesting. Would you say, is this, have we covered these
+
+01:02:16.840 --> 01:02:21.320
+two topics? I would maybe like to re invite you at some other time to maybe talk about some
+
+01:02:22.040 --> 01:02:29.320
+additional topic. Is there anything that you would like to share with us now in addition?
+
+01:02:31.320 --> 01:02:40.440
+Well, I again, thank you so much. I agree with what the doctor said. You have to look at overall
+
+01:02:40.440 --> 01:02:50.200
+health. It's I have a lot of days where I get very angry and crabby and frustrated. But it's
+
+01:02:50.200 --> 01:02:58.760
+important to stay optimistic, harboring too much anger or bitterness is also not good for our health.
+
+01:02:58.760 --> 01:03:04.760
+Although it does give it a little energy sometimes. It's not good for our health. I will say that
+
+01:03:06.280 --> 01:03:09.960
+and watch Jonathan Kui's last show. I think he did a great job covering this.
+
+01:03:11.160 --> 01:03:16.200
+In spite of what you've heard, aside from the people who are getting old and gray like me,
+
+01:03:17.080 --> 01:03:22.920
+you, people are still the world's most valuable asset.
+
+01:03:27.160 --> 01:03:34.360
+Not of course, it's because of the love that we bring and what we represent. But even from a
+
+01:03:34.360 --> 01:03:42.120
+scientific standpoint, there has been this, this greed that started, I think this, this is a little
+
+01:03:42.840 --> 01:03:49.400
+dark in World War two with a very large captive population of people that could have been used
+
+01:03:49.400 --> 01:03:56.200
+for a variety of medical experiments. There has been this increasing greed and desire to find
+
+01:03:56.200 --> 01:04:01.720
+ways to get more and more people effectively to be a captured audience without them knowing it.
+
+01:04:02.280 --> 01:04:12.040
+To help advance a very, very heavily funded genomics agenda. And it has often been said
+
+01:04:12.040 --> 01:04:17.640
+that, oh, there's just a plan to kill all the people on the planet, depopulation and so on.
+
+01:04:18.440 --> 01:04:27.800
+Well, I'm not saying that we are adored and wanted. The unfortunate reality is that this agenda,
+
+01:04:27.800 --> 01:04:32.600
+this genomics agenda, which potentially is about beating cancer and life extension,
+
+01:04:33.320 --> 01:04:40.600
+cannot advance without people. It cannot advance without people. They were hoping at some point
+
+01:04:40.600 --> 01:04:46.840
+that they could just solve everything with computers. No, you need people, you need data to collect
+
+01:04:46.840 --> 01:04:53.720
+in order to make it even possible, maybe someday to work. And I think that there is a desire to
+
+01:04:53.720 --> 01:04:59.400
+get us to think that somehow we're just all useless eaters and garbage. I'm not saying we're loved,
+
+01:04:59.400 --> 01:05:07.320
+but imagine if the population of the world realized, oh, my goodness, our bodies and our sovereignty
+
+01:05:07.320 --> 01:05:13.240
+are actually the most valuable resource on the planet. That really changes, I think, the dialogue
+
+01:05:14.280 --> 01:05:25.240
+into a way, which perhaps we can have properly discuss. If people want to accept medical risks
+
+01:05:25.240 --> 01:05:32.280
+to advance science, they can do it and they should receive proper compensation for this.
+
+01:05:33.240 --> 01:05:41.400
+So stay healthy, try to focus on the positives. We're going to get through this. It may take
+
+01:05:41.400 --> 01:05:49.960
+a long time to expose all of this. But what we all have and what our children have is,
+
+01:05:49.960 --> 01:05:57.240
+I still think the most valuable resource. And I think there's a great attempt out to get people
+
+01:05:58.120 --> 01:06:06.360
+to not talk about these things. And also to try to focus on the don't get baited,
+
+01:06:06.360 --> 01:06:13.160
+don't get tricked into having the wrong arguments. There's a desire to get all of us to focus
+
+01:06:13.720 --> 01:06:22.120
+completely on the existence of a particular molecule and what it can do. And it's impossible
+
+01:06:22.120 --> 01:06:32.360
+to discount that. But if we just look at the bigger picture, I would state almost all of the
+
+01:06:32.360 --> 01:06:42.200
+lives which were lost, could have been saved. If we weren't looking for it, this thing. So why
+
+01:06:42.200 --> 01:06:47.480
+shouldn't that be the kickoff of all the conversations? So again, there's a lot of other things,
+
+01:06:47.480 --> 01:06:53.320
+intellectual property law, it sounds boring. It's very relevant. We can get into all of that.
+
+01:06:53.320 --> 01:06:57.480
+And another one, I would love to do that. I'm sorry, it didn't have slides for you.
+
+01:06:57.480 --> 01:07:06.120
+I have a ton of content organized and so on. But consider this to be a representation of the fact
+
+01:07:06.120 --> 01:07:14.040
+that I have this life, which has also been impacted by these events. So thank you for this.
+
+01:07:14.920 --> 01:07:20.040
+Thank you very much for all the information you gave us and all the views you gave us.
+
+01:07:20.040 --> 01:07:29.480
+And I think if I should sum it up, what you said, I have the idea to say just don't get lost in
+
+01:07:29.480 --> 01:07:39.640
+molecules. Don't get lost in molecules. Mankind has not known much about molecules in genetics
+
+01:07:39.640 --> 01:07:46.520
+before. It's very recent. And the world has not become better with genetic knowledge.
+
+01:07:47.400 --> 01:07:52.600
+There has been a new way of discriminating people with their genes. Before they were
+
+01:07:52.600 --> 01:07:58.360
+discriminated because of the skin color of their sex and all this. But now you can discriminate
+
+01:07:58.360 --> 01:08:03.960
+people because of their genes. You can treat those with those genes different from those with
+
+01:08:03.960 --> 01:08:12.920
+other genes. And those ones who can analyze these genes, they can just characterize and they can
+
+01:08:12.920 --> 01:08:20.520
+just find the groups they want to discriminate. So if you have tests and if you have possibilities
+
+01:08:20.520 --> 01:08:26.040
+of biological analysis of human being, distinguish one from the other, you can discriminate them.
+
+01:08:26.760 --> 01:08:33.800
+And in all human rights, in all charters we have, there's always a charter against discrimination.
+
+01:08:34.440 --> 01:08:40.280
+All different, we are all different human beings. But we are all have different or have equal
+
+01:08:40.280 --> 01:08:49.160
+rights. And this is in every, in every law all over the world. This is the main thing that we are
+
+01:08:49.160 --> 01:08:55.960
+human beings with our dignity. But we are all different. We have different diseases. We have
+
+01:08:55.960 --> 01:09:02.040
+different ideas. We have, but we have to respect each other playing the same game after the same
+
+01:09:02.040 --> 01:09:09.080
+rules, like in football, no fouls. We all have the same, we all are different, but we have the
+
+01:09:09.080 --> 01:09:16.280
+same rights. And this is if you if you start distracting people into molecules and particles,
+
+01:09:16.280 --> 01:09:22.200
+only some people understand those some people want to influence the rest of the world with their
+
+01:09:22.200 --> 01:09:29.000
+knowledge. They narrative about their molecules, their view of the world. And they want to tell us
+
+01:09:29.000 --> 01:09:33.800
+this is important. You have to be careful from the molecules. I know you don't know them. Yes.
+
+01:09:34.760 --> 01:09:41.000
+And this is a they make business with it. And it's not important. There are more important things.
+
+01:09:42.120 --> 01:09:47.000
+But Mark, what I also draw from the conversation with you is, you know, I mean, one thing is,
+
+01:09:47.000 --> 01:09:52.440
+of course, that we are not ants. I mean, it's really very important. Each, each one of us is
+
+01:09:52.440 --> 01:09:57.160
+very important. And each one of us can make the difference, you know, can, can be the tipping
+
+01:09:57.160 --> 01:10:04.200
+points, basically, of waking up someone else or like inspiring someone else or themselves,
+
+01:10:04.200 --> 01:10:11.400
+you know, do something that's going to be, you know, that's going to tear apart or away the green
+
+01:10:12.200 --> 01:10:18.040
+curtain, you know, from the end. And we can then see the little dwarf behind it. But and I think
+
+01:10:18.040 --> 01:10:24.520
+it's also, you know, one thing is so important. I think that is that we try to find the truth,
+
+01:10:24.520 --> 01:10:30.520
+or like, at least we do not have any taboos in mind, like, you know, corners that we cannot touch
+
+01:10:30.520 --> 01:10:36.520
+and that we really have to shine light in, in, in, in every corner. I mean, as you mentioned,
+
+01:10:36.520 --> 01:10:42.280
+the, the opioid crisis, the, the Lyme disease and so on. I mean, there cannot be any taboos.
+
+01:10:42.280 --> 01:10:47.640
+And I think we, I mean, it's true. Wolfgang says that we cannot be focusing on just the
+
+01:10:49.000 --> 01:10:53.000
+topics or the, the train of thought that's been presenting to us, you know,
+
+01:10:53.560 --> 01:10:59.800
+been presented to us. But I think it's also really important for us to have no barriers of thinking
+
+01:11:00.360 --> 01:11:05.160
+and, and look at all the corners. And I think if we then throw together all everything that we
+
+01:11:05.160 --> 01:11:09.800
+find out, and even if some people look at the molecules and say, Oh, there's no molecule,
+
+01:11:09.800 --> 01:11:14.440
+or there's, there's this or that, that doesn't make any sense, you know, and even because there
+
+01:11:14.440 --> 01:11:20.280
+need to be like people who really question in detail, because otherwise you have no basis for
+
+01:11:20.280 --> 01:11:25.240
+maybe questioning or like the statistics and so on. But then I think it's, it's really, we,
+
+01:11:25.240 --> 01:11:32.120
+we just have to look in every corner to, to, to find the truth or what we can at that point,
+
+01:11:32.120 --> 01:11:38.040
+consider to be the state of knowledge, you know, and question, we have to constantly continue
+
+01:11:38.040 --> 01:11:43.000
+questioning what's going on. And I think this is the time, because now so many people have
+
+01:11:43.000 --> 01:11:49.400
+really like an, on a large scale, started to question everything. And yet they have not gone
+
+01:11:49.400 --> 01:11:54.040
+crazy, all of them. And you know, it's, it's, there's, there's, I think there's even a better
+
+01:11:54.040 --> 01:12:01.720
+life. I mean, although it's hard, but it's a better life to, to be not like blinded by whatever the
+
+01:12:01.720 --> 01:12:06.120
+media and the narrative and so on. But really look behind the curtains. And I think we have to
+
+01:12:06.120 --> 01:12:10.280
+continue doing that. And Mark, I'm looking forward to continuing the conversation with you.
+
+01:12:11.480 --> 01:12:14.440
+Thank you so much. Me as well. I appreciate the opportunity.
+
+01:12:14.440 --> 01:12:18.040
+Thanks so much. Thank you. Bye.
+
